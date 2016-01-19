@@ -168,7 +168,7 @@
 
 #header{
   margin-bottom: 0;
-  padding: 5px 0 60px 0;
+  padding: 1px 0 60px 0;
 }
 
 #header .navbar-inverse .container{
@@ -262,7 +262,7 @@
 }
 
 #header .navbar-toggle{
-  margin-top: 20px;
+  margin-top: 40px;
 }
 
 #header .navbar-brand{
@@ -284,7 +284,7 @@
 
 #header .navbar-nav.navbar-right >li a {
   color: #000;
-  font-size: 12px;
+  font-size: 18px;
   padding: 20px;
   text-transform: uppercase;
   font-weight: 300;
@@ -318,7 +318,7 @@ ul.sub-menu {
 #header .navbar-nav li ul.sub-menu li a{
   color: #818285;
   padding: 5px 0;
-  font-size: 13px;
+  font-size: 16px;
   display: block;
   text-transform: capitalize;
 }
