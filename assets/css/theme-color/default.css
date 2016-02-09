@@ -1,0 +1,202 @@
+/*=======================================
+Template Design By MarkUps.
+Author URI : http://www.markups.io/
+========================================*/
+
+.header-content h2 span {
+  color: #94aae6;
+}
+.knowmore-btn:hover,
+.knowmore-btn:focus,
+.download-btn:hover,
+.download-btn:focus{
+  background-color: #264cb2;
+  border-color: #264cb2;
+}
+.main-nav li a:hover{
+  color: #264cb2;
+} 
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  color: #264cb2;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: #264cb2;
+}
+.search-area input[type="text"]:focus:hover {
+  border-bottom: 1px solid #264cb2;  
+}
+.search-area input[type="text"]:focus {
+  border-bottom: 1px solid #264cb2;  
+}
+.search-area input[type="submit"] {
+  background-color: #264cb2;  
+}
+.tittle>span{
+  color: #264cb2;
+}
+.single-wc-content span {
+  border: 1px solid #264cb2;
+  color: #264cb2;
+}
+.single-wc-content:hover .wc-icon{
+  background-color: #264cb2;
+}
+.single-wc-content:hover .wc-tittle{
+  border-bottom: 2px solid #264cb2;  
+}
+.about-left {
+    
+}
+.button-default {  
+  border: 2px solid #e2e6f2 !important;
+  color: #e2e6f2 !important;
+}
+.button-default:hover {
+  border-color: #264cb2;
+}
+.button-default:hover,
+.button-default:focus {
+  border-color: #264cb2;
+  background-color: #264cb2 !important;  
+}
+.introduction-btn {
+  background-color: rgba(0, 217, 153, 0.8);
+}
+.team-info {
+  background: rgba(0, 217, 153, 0.8);
+}  
+.team-grid li:hover .team-address p {
+  color: #264cb2;
+}
+.single-service {
+  border-bottom: 5px solid #264cb2;
+}
+.single-service:hover:after{  
+  background-color: #264cb2;
+}
+.single-service:hover .service-icon{
+  color: #264cb2;
+}
+.single-service:hover .service-title{
+  color: #264cb2;
+}
+.single-counter > span {
+  color: #264cb2;
+}
+.single-price .price-header {
+  background-color: #264cb2;
+ }
+ .single-price .price-header::after {
+  color: #264cb2;  
+}
+.single-price .price-amount {
+  border-bottom: 1px solid #264cb2;
+  color: #264cb2;  
+}
+.single-price a {
+  border-bottom: 1px solid #264cb2;
+}
+.standard-price a{
+  background-color: #264cb2;  
+}
+.single-from-blog .blog-title h2 a:hover,
+.single-from-blog .blog-title h2 a:focus{
+  color: #264cb2; 
+}
+.single-from-blog .blog-title .blog-admin{
+  color: #264cb2;
+}
+.single-from-blog .blog-footer a:hover,
+.single-from-blog .blog-footer a:focus { 
+  color: #264cb2;
+}
+.contact-form .form-control:focus {
+  border-color: #264cb2;   
+} 
+.portfolio-menu ul li:hover{
+  color: #264cb2;
+  border-color: #264cb2;  
+}
+.portfolio-social-icon a {
+  background-color: #264cb2;
+}
+.portfolio-title {
+  background-color: #264cb2;
+}
+.blog-banner-area .breadcrumb li.active{
+  color: #264cb2;
+}
+.blog-pagination > li > a:hover,
+.blog-pagination > li > span:hover,
+.blog-pagination > li > a:focus,
+.blog-pagination > li > span:focus{
+  background-color: #264cb2;  
+  border-color:#264cb2;  
+}
+.single-widget h2 {
+  border-left: 3px solid #264cb2;  
+}
+.popular-post-widget .media-heading a:hover,
+.popular-post-widget .media-heading a:focus{
+  color: #264cb2;  
+}
+.instagram-feed .slick-prev::before,
+.instagram-feed .slick-next::before {
+  color: #264cb2;  
+}
+.instagram-feed .slick-dots li.slick-active button{
+  background-color: #264cb2;
+}
+.instagram-feed .slick-dots li.slick-active button::before{
+  color: #264cb2
+}
+.comment-form .form-control:focus {
+  border-color: #264cb2;   
+} 
+.error-no {
+  border: 2px solid #264cb2;  
+}
+.error-no p {
+  color: #264cb2;
+}
+.blog-details-content>a:hover{
+  color: #264cb2;
+}
+.scrollToTop {  
+  color: #264cb2;  
+}
+.scrollToTop:hover,
+.scrollToTop:focus{  
+  background-color: #264cb2; 
+}
+.loader {  
+  background: #264cb2;
+  background: -moz-linear-gradient(left, #264cb2 10%, rgba(255, 255, 255, 0) 42%);
+  background: -webkit-linear-gradient(left, #264cb2 10%, rgba(255, 255, 255, 0) 42%);
+  background: -o-linear-gradient(left, #264cb2 10%, rgba(255, 255, 255, 0) 42%);
+  background: -ms-linear-gradient(left, #264cb2 10%, rgba(255, 255, 255, 0) 42%);
+  background: linear-gradient(to right, #264cb2 10%, rgba(255, 255, 255, 0) 42%);  
+}
+.loader:before {
+  background: #264cb2; 
+}
+.footer-bottom p a{
+  color: #264cb2;
+}
+.blog-pagination > li > a,
+.blog-pagination > li > span {
+  color: #264cb2; 
+}
+.blog-pagination > li > a:hover,
+.blog-pagination > li > span:hover,
+.blog-pagination > li > a:focus,
+.blog-pagination > li > span:focus{
+  background-color: #264cb2;  
+  border-color:#264cb2;
+}
+.btrc{
+    margin-left: 80px;
+}
