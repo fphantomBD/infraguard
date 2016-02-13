@@ -1484,7 +1484,7 @@ img{
 }
 .single-address h4 {
 	color: #fafafa;
-	font-size: 22px;
+	font-size: 20px;
 	font-weight: bold;
 	margin-bottom: 17px;
 }
@@ -1508,7 +1508,7 @@ img{
 .contact-form .form-group input {
 	background: transparent;
 	color: #e1e1e1;
-	font-size: 10px;
+	font-size: 18px;
 	border: 1px solid #fff;
 	border-radius: 0;
 	height: 35px;
@@ -1527,22 +1527,22 @@ img{
 } 
 .contact-form .form-control::-webkit-input-placeholder {
 	color: #e2e2e2;
-	font-size: 20px;
+	font-size: 15px;
 }
 
 .contact-form .form-control:-moz-placeholder { /* Firefox 18- */
 	color: #e2e2e2;
-	font-size: 20px; 
+	font-size: 15px; 
 }
 
 .contact-form .form-control::-moz-placeholder {  /* Firefox 19+ */
 	color: #e2e2e2;
-	font-size: 20px;
+	font-size: 15px;
 }
 
 .contact-form .form-control:-ms-input-placeholder {  
 	color: #e2e2e2;
-	font-size: 20px;
+	font-size: 15px;
 }
 .contact-form button {
 	float: right;
@@ -2811,7 +2811,7 @@ img{
 	}
 	.contact-form .form-group input {	  
 	  font-size: 16px;
-	  height: 40px;	 
+	  height: 60px;	 
 	}
 	.footer-social a { 
 	  font-size: 15px;
